@@ -8,7 +8,7 @@
 - ### HTML ``89%``
 - ### CSS ``63%``
 ## 🌑 Discord
-- ### [👥 Server](https://discord.gg/aK4dvGqR)
+- ### [👥 Server](https://discord.gg/EHgpBpUgCA)
 - ### [👤 Account](https://discord.com/users/737355664682123313)
 ## 👀 Views
 - ![](https://komarev.com/ghpvc/?username=DIISLAY)
