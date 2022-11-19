@@ -10,7 +10,5 @@
 ## 🌑 Discord
 - ### [👥 Server](https://discord.gg/EHgpBpUgCA)
 - ### [👤 Account](https://discord.com/users/737355664682123313)
-## ✨ My website
-- ### https://diislay.ga
 ## 👀 Views
 - ![](https://komarev.com/ghpvc/?username=DIISLAY)
