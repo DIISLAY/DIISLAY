@@ -1,7 +1,7 @@
 # DIISLAY
 ## ❓ Who i am
 - ###  I am a developer in HTML,CSS,Lua,Aoi.js,Bdfd
-- ### I collaborated with a lot of developers to create bots or sites
+- ### I have worked with many developers to create bots or websites
 ## 📊 Skills 
 - ### BDFD ``78%``
 - ### Lua ``17%`` (i'm learning)
