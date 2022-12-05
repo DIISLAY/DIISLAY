@@ -11,5 +11,5 @@
 ## 🌑 Discord
 - ### [👥 Server](https://discord.gg/EHgpBpUgCA)
 - ### [👤 Account](https://discord.com/users/737355664682123313)
-## 👀 Views
+## 👀 Profil views
 - ![](https://komarev.com/ghpvc/?username=DIISLAY)
