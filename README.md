@@ -3,7 +3,7 @@
 - ###  I am a developer in HTML,CSS,Lua,Aoi.js,Bdfd
 - ### I have worked with many developers to create bots or websites
 ## 📊 Skills 
-- ### BDFD ``78%``
+- ### BDScript ``78%``
 - ### Lua ``26%`` (i'm learning)
 - ### Aoi.Js ``93%``
 - ### HTML ``89%``
