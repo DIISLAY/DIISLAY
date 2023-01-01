@@ -1,13 +1,13 @@
 # DIISLAY
 ## ❓ Who i am
 - ###  I am a developer in HTML,CSS,Lua,Aoi.js,BDScript
-- ### I have worked with many developers to create bots or websites
+- ### I have worked with many developers to create bots
 ## 📊 Skills 
-- ### BDScript ``78%``
+- ### BDScript ``84%``
 - ### Lua ``26%`` (i'm learning)
-- ### Aoi.Js ``93%``
-- ### HTML ``89%``
-- ### CSS ``63%``
+- ### Aoi.Js ``97%``
+- ### HTML ``22%``
+- ### CSS ``15%``
 ## 🌑 Discord
 - ### [👥 Server](https://discord.gg/EHgpBpUgCA)
 - ### [👤 Account](https://discord.com/users/737355664682123313)
